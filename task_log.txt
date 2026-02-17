@@ -1,0 +1,4 @@
+2026-02-17 19:22:36.245423: Opened Notepad
+2026-02-17 19:23:09.745085: Opened Notepad
+2026-02-17 19:23:10.073438: Opened Notepad
+2026-02-17 19:23:13.581616: Opened Notepad

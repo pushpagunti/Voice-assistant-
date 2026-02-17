@@ -1,0 +1,8 @@
+You: open Notepad
+Assistant: Opening notepad.
+
+You: open Notepad
+Assistant: Opening notepad.
+
+You: open Notepad
+Assistant: Opening notepad.
